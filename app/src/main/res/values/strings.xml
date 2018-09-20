@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unsplach</string>
+    <string name="update_data_hint">Loaded %1$d items from network.</string>
+
+    <string name="access_key">cc9e9cbae3e04dc08e2eeef9a30b4a86368ff10b0c2c7086446247cbb1f75017</string>
+    <string name="secret_key">aaa655c7fb539231d93c94ce22b601fdcc72cc1f4c35614f6e7a43fc4702d7fe</string>
+
+    <string name="using">Use urn:ietf:wg:oauth:2.0:oob for local tests</string>
+</resources>
